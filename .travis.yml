@@ -28,4 +28,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   local_dir: dist/bitcoin-order-app
   on:
-    branch: masterECHO is on.
+    branch: development
